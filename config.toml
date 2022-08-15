@@ -1,4 +1,4 @@
-baseURL = "https://HelmUpgradeBot.github.io/"
+baseURL = "https://schminkel.github.io/HelmUpgradeBot.github.io/"
 languageCode = "en-us"
 theme = "anatole"
 enableEmoji = true
