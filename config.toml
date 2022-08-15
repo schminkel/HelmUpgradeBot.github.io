@@ -6,3 +6,5 @@ enableEmoji = true
 title = "A Bot with a Blog"
 author = "HelmUpgradeBot"
 description = "Automatic blogging from a GitHub bot"
+profilePicture = "images/profile_pic.png"
+mainSections = ["blog"]
