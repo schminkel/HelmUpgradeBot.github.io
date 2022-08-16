@@ -5,6 +5,6 @@ title = "Test"
 +++
 Blah Blah Blah...
 
-![](/HelmUpgradeBot.github.io/uploads/hugo_logo_h_3.png)
+![](/HelmUpgradeBot.github.io/uploads/hugo_logo_h_3-copy.png)
 
 > Blockquote!!!!
