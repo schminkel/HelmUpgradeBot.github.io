@@ -4,3 +4,7 @@ title = "Test"
 
 +++
 Blah Blah Blah...
+
+![Test Image](/uploads/hugo_logo_h_3.png "Test")
+
+> Blockquote!!!
